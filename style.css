@@ -1,0 +1,180 @@
+img{
+    margin-bottom: -150px;
+}
+#nav-logo{
+    margin-left: 600px;
+}
+#nav-header{
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+#nav-content{
+    margin-top: -10px;
+    line-height: 20px;
+    text-align: center;
+    font-size: 14px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: gray
+}
+#nav-buttons{
+    display: flex;
+    margin-left: 500px;
+}
+.nav-buttons{
+    margin-top: 30px;
+    margin-left: 10px;
+    border-radius: 25px;
+    width: 150px;
+    height: 40px;
+}
+#banner{
+    margin-top: 100px;
+}
+#banner1-header{
+    margin-top: 100px;
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#banner1-content{
+    margin-top: -10px;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: gray;
+    line-height: 25px;
+}
+#banner-image{
+    padding-top: 50px;
+}
+#banner1-content2{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-left: 850px;
+    margin-top: -350px;
+}
+h4{
+   margin-top: 30px; 
+}
+p{
+    color: gray;
+    line-height: 30px;
+}
+#banner2{
+    margin-top: 400px;
+}
+#banner2-header{
+    text-align: center;
+    font-size: 29px;
+    margin-bottom: 0px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#banner2-content{
+    line-height: 30px;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#banner2-img{
+    margin-top: 80px;
+    padding-left: 170px;
+}
+#features-header{
+    margin-top: 300px;
+    text-align: center;
+    font-size: 30px;
+    line-height:20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#features-content{
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#features-card{
+    margin-top: 80px;
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    padding-left: 30px;
+}
+.card{
+    padding-left: 100px;
+}
+#card-header{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#card-content{
+    color: gray;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#company-logos{
+    margin-top: 100px;
+    display: flex;
+}
+.logo{
+    margin-top: -120px;
+    padding-left: 100px;
+}
+#banner3-header{
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-top: 150px
+}
+#banner3-content{
+    line-height: -10px;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#banner3-buttons{
+    display: flex;
+    margin-left: 500px;
+}
+.banner3-buttons{
+    margin-top: 30px;
+    margin-left: 10px;
+    border-radius: 25px;
+    width: 150px;
+    height: 40px;
+}
+#ios:hover{
+    background-color: aqua;
+    color: white;
+}
+#Mac:hover{
+    background-color: rgb(130, 130, 235);
+}
+#footer{
+    background-color: rgb(245, 242, 242);
+    margin-top: 150px;
+    height: 200px;
+}
+#footer-logo{
+    position: absolute;
+    margin-left: 180px;
+    margin-top: 40px;
+}
+.b{
+    color: gray;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.b:hover{
+    color: rgb(48, 206, 153);
+    cursor: pointer;
+}
+#footer-links1{
+    margin-left: 500px;
+    padding-top: 40px;
+}
+#footer-links2{
+    margin-left: 700px;
+    margin-top: -95px;
+}
+#footer-links3{
+    margin-left: 900px;
+    margin-top: -90px;
+    padding-bottom: 100px;
+}
+#footer-icons{
+    margin-left: 1150px;
+    margin-top: -130px;
+    letter-spacing: 10px;
+}
