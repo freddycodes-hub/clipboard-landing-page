@@ -231,8 +231,8 @@ p{
     }
     #banner-image{
         padding-top: 50px;
-        padding-left: 5px;
-        width: 350px;
+        padding-left: 30px;
+        width: 300px;
     }
     #banner1-content2{
         font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -262,8 +262,9 @@ p{
         font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     }
     #banner2-img{
+        width: 300px;
         margin-top: 100px;
-        padding-left: 0px;
+        margin-left: -130px;
     }
     #features-header{
         margin-top: 150px;
